@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+    Licensed Materials - Property of IBM
+    5725-I43 (C) Copyright IBM Corp. 2011, 2013, 2015. All Rights Reserved.
+    US Government Users Restricted Rights - Use, duplication or
+    disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+--><nativeIOSApp xmlns="http://www.worklight.com/native-ios-descriptor" bundleId="com.materialsinspect" id="materialsinspect" platformVersion="7.1.0.00.20161006-0540" version="1.0">
+	
+	<displayName>materialsinspect</displayName>
+	<description>materialsinspect</description>
+	<pushSender password="ibm4you"/>
+	<accessTokenExpiration>28800</accessTokenExpiration>
+	<userIdentityRealms>default</userIdentityRealms>
+	<!-- 
+        Define the license app type for determining number of tokens to be allocated. 
+        Possible values are 'APPLICATION', 'ADDITIONAL_BRAND_DEPLOYMENT', 'NON_PRODUCTION'.
+     -->
+	<licenseAppType>APPLICATION</licenseAppType>
+	<!-- 
+        Define the target category for generating ADDRESSABLE DEVICE license reports. 
+        Possible values are 'UNDEFINED', 'B2E', 'B2C'.
+     -->
+    <targetCategory>UNDEFINED</targetCategory>	
+    
+</nativeIOSApp>

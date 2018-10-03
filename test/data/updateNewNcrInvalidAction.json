@@ -1,0 +1,23 @@
+{
+	"data": [{
+		"ncrDescription": "Dsgfdgfg",
+		"reason": "Unsatisfactory",
+		"locationId": "443",
+		"visitId": "13",
+		"createdDate": "2017-10-24T18:39:04",
+		"createdDuringVisitId": "13",
+		"otherFactors": "Contract, Performance",
+		"userId": "11",
+		"photos": [],
+		"inspectorComments": "Fdgdsfhgh",
+		"status": "Open",
+		"displayName": "NCR 1 - 1.1 Manufacturer declaration of conformity ",
+		"displayOrder": 0,
+		"ncrId": "AppGenerated-NCR-0F0C5DC6-D538-46A8-B795-34C4EB68BCBB",
+		"isNCRDeletable": 1,
+		"action": "S",
+		"syncStatus": "pending",
+		"associatedItemsId": []
+	}],
+	"errors": []
+}

@@ -1,0 +1,24 @@
+{
+	"data": [{
+		"incidentDescription": "Incident1",
+		"locationId": "443",
+		"references": "Incident ",
+		"personResponsible": "Incident1",
+		"createdDate": "2017-10-23T15:33:47",
+		"createdDuringVisitId": "13",
+		"visitId": "13",
+		"correctiveAction": "Incident1",
+		"additionalComments": "Incident",
+		"userId": "11",
+		"status": "Open",
+		"critical": 1,
+		"closingDate": "2017-10-25T15:43:09",
+		"displayName": "Incident 1 - 1.1 Manufacturer declaration of conformity ",
+		"incidentId": "AppGenerated-Incident-1D61B21E-27DC-4F93-A40A-362F411CC141",
+		"syncStatus": "pending",
+		"associatedItemsId": [],
+		"action": "S",
+		"hoursSpent": "3"
+	}],
+	"errors": []
+}

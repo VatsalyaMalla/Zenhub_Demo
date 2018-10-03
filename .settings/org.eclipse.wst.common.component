@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="materialsinspect">
+        <wb-resource deploy-path="/" source-path="/apps/materialsinspect"/>
+        <wb-resource deploy-path="/" source-path="/adapters/Location/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/Media/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/User/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/Visit/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/Notification/src"/>
+        <wb-resource deploy-path="/" source-path="/adapters/Notes/src"/>
+        <property name="context-root" value="materialsinspect"/>
+    </wb-module>
+</project-modules>
